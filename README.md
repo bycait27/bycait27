@@ -18,7 +18,7 @@ Master's in Computer Science student with a passion for full-stack development a
 
 ## 🌱 Currently Learning/Working On
 - **Enterprise Development:** Spring Boot, JPA/Hibernate, enterprise security patterns
-- - **DevOps Practices:** Docker containerization, cloud deployment strategies
+- **DevOps Practices:** Docker containerization, cloud deployment strategies
 
 ## 📫 Let's Connect
 - **LinkedIn:** [caitlin-ash](https://www.linkedin.com/in/caitlin-ash/)
