@@ -7,7 +7,7 @@ Master's in Computer Science student with a passion for full-stack development a
 **Languages:** JavaScript, Java, Python, SQL  
 **Frontend:** React, Next.js, HTML5, CSS3  
 **Backend:** Node.js, Express.js, Spring Boot  
-**Databases:** PostgreSQL, MySQL, JawsDB  
+**Databases:** PostgreSQL, MySQL, JawsDB, MongoDB  
 **Cloud & DevOps:** Heroku, GitHub Actions, CI/CD  
 **Tools:** Git, Maven, npm, Sequelize, Handlebars.js
 
