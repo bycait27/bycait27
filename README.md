@@ -2,12 +2,7 @@
 
 I'm Caitlin, a full-stack developer based in Chicago.
 
-I enjoy transforming code into meaningful digital experiences.
-
-## 📫 Let's Connect
-- **LinkedIn:** [caitlin-ash](https://www.linkedin.com/in/caitlin-ash/)
-- **Email:** caitlinba27@gmail.com
-- **Portfolio:** [caitlinash.io](https://caitlinash.io/)
+I enjoy transforming code into meaningful digital experiences. Check out my [portfolio website](https://caitlinash.io/) to learn more about me!
 
 ---
 
