@@ -4,6 +4,12 @@ I'm Caitlin, a full-stack developer based in Chicago.
 
 I enjoy transforming code into meaningful digital experiences. Check out my [portfolio website](https://caitlinash.io/) to learn more about me!
 
+**Fun Facts:**
+
+- Can't code unless I've had my coffee.
+- I love to draw.
+- I enjoy reading in my free time.
+
 ---
 
 ⭐️ From [bycait27](https://github.com/bycait27)
