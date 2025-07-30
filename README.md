@@ -7,7 +7,6 @@ I enjoy transforming code into meaningful digital experiences. Check out my [por
 **Fun Facts:**
 
 - I can't code unless I've had my coffee.
-- Art and drawing is one of my passions.
 - Reading is one of my favorite ways to relax.
 
 ---
