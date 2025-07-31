@@ -1,13 +1,13 @@
 ## Hi there 👋 
 
-I'm Caitlin, a full-stack developer based in Chicago.
+I'm Caitlin, a software engineer based in Chicago.
 
-I enjoy transforming code into meaningful digital experiences. Check out my [portfolio website](https://caitlinash.io/) to learn more about me!
+<!--I enjoy transforming code into meaningful digital experiences. Check out my [portfolio website](https://caitlinash.io/) to learn more about me!
 
 **Fun Facts:**
 
 - I can't code unless I've had my coffee.
-- Reading is one of my favorite ways to relax.
+- Reading is one of my favorite ways to relax.-->
 
 ---
 
