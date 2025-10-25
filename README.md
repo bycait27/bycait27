@@ -1,29 +1,29 @@
 ## Hi there 👋 
 
-I'm Caitlin, a software engineer based in Chicago.
+Software Engineer specializing in **backend systems** and **DevOps**, pursuing MS in Computer Science at DePaul University.
 
-<!--I enjoy transforming code into meaningful digital experiences. Check out my [portfolio website](https://caitlinash.io/) to learn more about me!
+## 🔭 What I'm Working On
+- Building distributed systems in Java
+- Developing backend services and DevOps tools in Go
+- Implementing CI/CD pipelines and containerization
 
-**Fun Facts:**
+## 💻 Tech Stack
+**Languages:** Go • Java • JavaScript  
+**Backend:** Node.js • Express  
+**DevOps:** Docker • GitHub Actions • Linux  
+**Databases:** PostgreSQL • MySQL 
+**Cloud:** Heroku • Vercel
 
-- I can't code unless I've had my coffee.
-- Reading is one of my favorite ways to relax.-->
+## 🚀 Featured Projects
+- **[The Tech Blog](https://github.com/bycait27/tech-blog)** - Full-stack blog with CI/CD and Docker
+- **Distributed File Retrieval System** - Java-based distributed system *(coming soon)*
+
+## 📫 Connect With Me
+- Portfolio: [caitlinash.io](https://caitlinash.io)
+- LinkedIn: [linkedin.com/in/caitlin-ash](https://linkedin.com/in/caitlin-ash)
+
+```💼 **Seeking Summer 2026 internships** in Backend Engineering, DevOps, or SRE roles```
 
 ---
 
 ⭐️ From [bycait27](https://github.com/bycait27)
-
-<!--
-**bycait27/bycait27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
