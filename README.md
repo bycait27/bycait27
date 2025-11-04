@@ -16,7 +16,7 @@ Software Engineer specializing in **backend systems** and **DevOps**, pursuing M
 
 ## 🚀 Featured Projects
 - **[The Tech Blog](https://github.com/bycait27/tech-blog)** - Full-stack blog with CI/CD and Docker
-- **[Distributed File Retrieval Engine](https://github.com/bycait27/dist-file-retrieval-engine)** - Java-based distributed system *(in progress)*
+- **[Distributed File Retrieval Engine](https://github.com/bycait27/dist-file-retrieval-engine)** - Java-based distributed system
 
 ## 📫 Connect With Me
 - Portfolio: [caitlinash.io](https://caitlinash.io)
