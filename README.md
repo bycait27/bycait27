@@ -9,10 +9,10 @@ Software Engineer specializing in **backend systems** and **DevOps**, pursuing M
 
 ## 💻 Tech Stack
 **Languages:** Java • Go • JavaScript  
-**Backend:** Node.js • Express • REST APIs 
-**DevOps:** Docker • GitHub Actions • Linux • Maven
-**Databases:** PostgreSQL • MySQL 
-**Cloud:** Heroku • Vercel
+**Backend:** Node.js • Express • REST APIs   
+**DevOps:** Docker • GitHub Actions • Linux • Maven   
+**Databases:** PostgreSQL • MySQL     
+**Cloud:** Heroku • Vercel    
 
 ## 🚀 Featured Projects
 - **[The Tech Blog](https://github.com/bycait27/tech-blog)** - Full-stack blog with CI/CD and Docker
