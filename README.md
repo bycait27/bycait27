@@ -6,7 +6,7 @@ performance optimization. Pursuing MS in Computer Science at DePaul University.
 ## 🔭 What I'm Building
 
 * **CI/CD Automation:** Multi-stage pipelines with GitHub Actions, Docker, and automated testing
-* **Distributed Systems:** High-performance client-server architecture optimized for 54 MB/s throughput
+* **Distributed Systems:** High-performance client-server architecture optimized for ~54 MB/s throughput
 * **Container Orchestration:** Multi-container environments with Docker Compose, health checks, and persistent volumes
 * **Infrastructure Tooling:** Learning Go for systems programming and CLI development
 
