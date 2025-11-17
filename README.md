@@ -1,27 +1,22 @@
 # Hi, I'm Caitlin 👋
 
-I'm a Computer Science master's student at DePaul University who writes code for backend and full-stack applications.
+A Computer Science master's student at DePaul University focused on backend and full-stack software development. I write code for applications in Java and JavaScript, with a focus on building robust backend systems and REST APIs.
 
-## What I Build
-
-I write software in Java and JavaScript. My projects include multi-threaded distributed systems, full-stack web applications, and REST APIs.
-
-Currently learning Spring Boot and building enterprise Java applications.
+When I'm not coding, I am most likely getting lost in a book, playing video games, or hanging out with my dog!
 
 ## Tech Stack
 
-**Languages:** Java, JavaScript, SQL  
-**Backend:** Spring Boot, Node.js, Express.js  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Docker, Git, Maven
+**Languages:** Java, JavaScript, SQL     
+**Backend Development:** Spring Boot, Node.js, Express.js, REST APIs, Multi-threading, Concurrent Programming      
+**Databases:** PostgreSQL, MySQL, Database Design      
+**Full-Stack:** React.js, HTML/CSS, Responsive Web Development      
+**Developer Tools:** Git, Docker, Maven, Linux, GitHub Actions      
 
 ## Featured Projects
 
 **[Distributed File Retrieval System](https://github.com/bycait27/dist-file-retrieval-engine)** - Java multi-threaded system achieving ~54 MB/s throughput
 
 **[Tech Blog](https://github.com/bycait27/tech-blog)** - Full-stack web application with Node.js, Express.js, MySQL
-
-**Spring Boot Apps** - Coming December 2025
 
 ## Looking For
 
