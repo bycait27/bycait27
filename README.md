@@ -1,6 +1,6 @@
 # Hi, I'm Caitlin 👋
 
-A Computer Science master's student at DePaul University focused on backend and full-stack software development. I write code for applications in Java and JavaScript, with a focus on building robust backend systems and REST APIs.
+A Computer Science master's student at DePaul University focused on backend software development with full-stack capabilities. I write code for applications in Java and JavaScript, with a focus on building robust backend systems and REST APIs.
 
 When I'm not coding, I am most likely getting lost in a book, playing video games, or hanging out with my dog!
 
