@@ -15,7 +15,7 @@ When I'm not coding, I am most likely getting lost in a book, playing video game
 
 ## Featured Projects
 
-**[Concurrent File Retrieval System](https://github.com/bycait27/dist-file-retrieval-engine)** - Java multi-threaded system achieving ~54 MB/s throughput
+**[Concurrent File Retrieval System](https://github.com/bycait27/file-retrieval-engine)** - Java multi-threaded system achieving ~54 MB/s throughput
 
 **[The Tech Blog](https://github.com/bycait27/tech-blog)** - Full-stack web application with Node.js, Express.js, MySQL
 
