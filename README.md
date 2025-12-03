@@ -11,7 +11,7 @@ When I'm not coding, I am most likely getting lost in a book, playing video game
 **Databases:** PostgreSQL, MySQL, Database Design      
 **Frontend-UI:** React.js, HTML/CSS, Responsive Web Development      
 **Developer Tools:** Git, Docker, Maven, Linux, GitHub Actions   
-**Sytems:** Concurrent Systems, Multi-threading, Socket Programming, Client-Server Architecture, Performance Optimization
+**Systems:** Concurrent Systems, Multi-threading, Socket Programming, Client-Server Architecture, Performance Optimization
 
 ## Featured Projects
 
